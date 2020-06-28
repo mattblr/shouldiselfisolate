@@ -26,3 +26,5 @@ yarn-error.log*
 __pycache__
 .venv
 node_modules
+
+Dockerfile
